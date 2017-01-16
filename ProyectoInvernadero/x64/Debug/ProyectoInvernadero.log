@@ -1,0 +1,8 @@
+﻿  ControlApplicationInterface.cpp
+a:\usuario\documentos\github\invernaderoproject\proyectoinvernadero\ControlApplicationInterface.h(127): warning C4101: 'e': unreferenced local variable
+a:\usuario\documentos\github\invernaderoproject\proyectoinvernadero\ControlApplicationInterface.h(167): warning C4101: 'e': unreferenced local variable
+  Invernadero.cpp
+Invernadero.cpp(42): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  .NETFramework,Version=v4.6.AssemblyAttributes.cpp
+  ProyectoInvernadero.vcxproj -> A:\Usuario\Documentos\GitHub\InvernaderoProject\x64\Debug\ProyectoInvernadero.exe

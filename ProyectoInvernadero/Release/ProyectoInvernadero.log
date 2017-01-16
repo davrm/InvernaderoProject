@@ -1,0 +1,21 @@
+﻿Build started 29/11/2016 10:08:09.
+     1>Project "C:\Users\drmsk\Documents\GitHub\InvernaderoProject\ProyectoInvernadero\ProyectoInvernadero.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\Facades\\" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib ControlApplicationInterface.cpp Invernadero.cpp
+         ControlApplicationInterface.cpp
+     1>c:\users\drmsk\documents\github\invernaderoproject\proyectoinvernadero\ControlApplicationInterface.h(93): warning C4101: 'e': unreferenced local variable
+         Invernadero.cpp
+     1>Invernadero.cpp(43): warning C4101: 'e': unreferenced local variable
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fp"Release\ProyectoInvernadero.pch" /Fa"Release\\" /Fo"Release\\" /Fd"Release\vc140.pdb" /analyze- /errorReport:prompt "C:\Users\drmsk\AppData\Local\Temp\.NETFramework,Version=v4.6.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.6.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\drmsk\Documents\GitHub\InvernaderoProject\Release\ProyectoInvernadero.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\ProyectoInvernadero.ControlApplicationInterface.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\drmsk\Documents\GitHub\InvernaderoProject\Release\ProyectoInvernadero.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"Main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\ControlApplicationInterface.obj
+         Release\Invernadero.obj
+         "Release\.NETFramework,Version=v4.6.AssemblyAttributes.obj"
+         ProyectoInvernadero.vcxproj -> C:\Users\drmsk\Documents\GitHub\InvernaderoProject\Release\ProyectoInvernadero.exe
+     1>Done Building Project "C:\Users\drmsk\Documents\GitHub\InvernaderoProject\ProyectoInvernadero\ProyectoInvernadero.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.75
